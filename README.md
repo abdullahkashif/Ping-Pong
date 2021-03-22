@@ -6,6 +6,6 @@ Controls:
 
 Top Paddle: WASD
 
-Bottom Paddle: up, right, left, down arrow keys
+Bottom Paddle: ARROW KEYS
 
 Hope You Enjoy!
